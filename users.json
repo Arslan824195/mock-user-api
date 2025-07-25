@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Ali",
+    "class": "10th",
+    "color": "Blue",
+    "rollno": 101,
+    "age": 15
+  },
+  {
+    "id": 2,
+    "name": "Sara",
+    "class": "9th",
+    "color": "Green",
+    "rollno": 102,
+    "age": 14
+  },
+  {
+    "id": 3,
+    "name": "Ahmed",
+    "class": "10th",
+    "color": "Red",
+    "rollno": 103,
+    "age": 15
+  },
+  {
+    "id": 4,
+    "name": "Zara",
+    "class": "8th",
+    "color": "Yellow",
+    "rollno": 104,
+    "age": 13
+  },
+  {
+    "id": 5,
+    "name": "Bilal",
+    "class": "7th",
+    "color": "Orange",
+    "rollno": 105,
+    "age": 12
+  },
+  {
+    "id": 6,
+    "name": "Hina",
+    "class": "6th",
+    "color": "Purple",
+    "rollno": 106,
+    "age": 11
+  },
+  {
+    "id": 7,
+    "name": "Usman",
+    "class": "9th",
+    "color": "Pink",
+    "rollno": 107,
+    "age": 14
+  },
+  {
+    "id": 8,
+    "name": "Iqra",
+    "class": "10th",
+    "color": "Gray",
+    "rollno": 108,
+    "age": 15
+  },
+  {
+    "id": 9,
+    "name": "Hamza",
+    "class": "8th",
+    "color": "Brown",
+    "rollno": 109,
+    "age": 13
+  },
+  {
+    "id": 10,
+    "name": "Ayesha",
+    "class": "7th",
+    "color": "Black",
+    "rollno": 110,
+    "age": 12
+  }
+]
